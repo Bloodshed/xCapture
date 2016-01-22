@@ -1,0 +1,11 @@
+c:\users\recreation_bloodshed\documents\visual studio 2015\Projects\xCapture\xCapture\bin\Debug\xCapture.exe.config
+c:\users\recreation_bloodshed\documents\visual studio 2015\Projects\xCapture\xCapture\bin\Debug\xCapture.exe
+c:\users\recreation_bloodshed\documents\visual studio 2015\Projects\xCapture\xCapture\bin\Debug\xCapture.pdb
+c:\users\recreation_bloodshed\documents\visual studio 2015\Projects\xCapture\xCapture\bin\Debug\xCapture.xml
+c:\users\recreation_bloodshed\documents\visual studio 2015\Projects\xCapture\xCapture\obj\Debug\xCapture.vbprojResolveAssemblyReference.cache
+c:\users\recreation_bloodshed\documents\visual studio 2015\Projects\xCapture\xCapture\obj\Debug\xCapture.Form1.resources
+c:\users\recreation_bloodshed\documents\visual studio 2015\Projects\xCapture\xCapture\obj\Debug\xCapture.Resources.resources
+c:\users\recreation_bloodshed\documents\visual studio 2015\Projects\xCapture\xCapture\obj\Debug\xCapture.vbproj.GenerateResource.Cache
+c:\users\recreation_bloodshed\documents\visual studio 2015\Projects\xCapture\xCapture\obj\Debug\xCapture.exe
+c:\users\recreation_bloodshed\documents\visual studio 2015\Projects\xCapture\xCapture\obj\Debug\xCapture.xml
+c:\users\recreation_bloodshed\documents\visual studio 2015\Projects\xCapture\xCapture\obj\Debug\xCapture.pdb
